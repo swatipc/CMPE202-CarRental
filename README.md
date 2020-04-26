@@ -2,9 +2,9 @@
 Car Rental Application (User Registration)
 
 Dependencies required for this application:
-pip install Flask>=1.0.0
-pip install flask-oidc>=1.4.0
-pip install okta==0.0.4
+1. pip install Flask>=1.0.0
+2. pip install flask-oidc>=1.4.0
+3. pip install okta==0.0.4
 
 To run the application use below commands:
 1. set FLASK_APP = "app.py"
